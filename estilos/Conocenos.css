@@ -1,0 +1,57 @@
+.bloqueConocenos{
+    box-sizing:border-box ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-image:url(../imagenes/fondo_bloque_conocenos.jpg)
+    
+}
+h1{
+    color:#F318A2;
+    font-size: 30px;
+    font-family: Segoe print;
+    text-align: center;
+}
+p{
+    color:#2D1C27;
+    font-size: 18px;
+    font-family: Segoe print;
+    text-align: center;
+}
+.bloque2{
+    background: #F318A2;
+    color:white;
+    font-size: 30px;
+    font-family: Segoe print;
+    text-align: center;
+}
+.formulario{
+    
+    font-size: 15px;
+    font-family: Segoe print;
+    background: #fc9cd9;
+    margin-top: -10px;
+    padding: 10px; ;
+    text-align: center;
+
+
+}
+
+.iconosredes{
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    background: #f1b9dd;
+    
+}
+
+.textofooter{
+    padding: 8px;
+    width: 100%;
+    height: 20px;
+    font-size: 15px;
+    font-family: Segoe print;
+    text-align: center;
+
+}
